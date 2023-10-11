@@ -1,2 +1,2 @@
-# housePrediction
-Task 01:House prediction 
+# housepricePrediction
+Task 01:House price prediction 
